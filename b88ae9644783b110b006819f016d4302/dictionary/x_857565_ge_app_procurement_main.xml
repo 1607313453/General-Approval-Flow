@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f1daeda047c3b110b006819f016d43e3" extends="task" label="procurement_main" max_length="40" name="x_857565_ge_app_procurement_main" type="collection"/>
+</database>
